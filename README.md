@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shade 👋
 
-<!--
-**Shade0664/Shade0664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst with a passion for turning data into useful information that facilitates decision making.
+With experience in data analysis, data visualization, extraction, transformation and loading data.
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- **Data Visualization:** Proficient in creating interactive dashboards and visualizations.
+- **Extract, transform, and load(ETL):** With experience creating ETL flows to cleaning and load data efficiently.
+- **Data Analysis:** Capable in analyzing datasets to uncover insights and drive business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+## 🛠️ Technologies & Tools
+- **Data Visualization:** Tableau, Power BI, SQL Server Reporting Services
+- **Data Processing:** Excel
+- **ETL Tools:** (IPC) Informatica Power Center, (PDI) Pentaho Data Integration
+- **Database Management:** MS SQL Server, SQL Oracle, PL/SQL
+
+## 🌟 Achievements
+- **Oracle PL/SQL:** Earned certification in [UNAPEC and TESTDOME].
+- **AWS Cloud Practitioner:** in progress
+
+Feel free to explore my repositories where you can find some projects about my habilities and reach out if you have any questions or collaboration opportunities.
